@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+```javascript
+const allan = {
+    pronouns: "He" | "Him",
+    askMeAbout: [ "web dev", "tech"],
+    technologies:{
+        backEnd: ["nodejs", "express", "java"],
+        fronEnd: ["react","vanilla js"],
+        mobileApp: ["react native"],
+        database: ["mongo","mySql"],
+        misc: ["Firebase", "Socket.IO"]
+    },
+    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
+}
+```
+
+---
+⭐️ From [@ashrafkm](https://github.com/ashrafkm)
+
 <!--
 **Allan021/Allan021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
